@@ -1,4 +1,4 @@
-package pl.pkosmowski.testing.jaxrs.dao;
+package pl.pkosmowski.learning.webservices.dao;
 
 import java.util.List;
 import javax.persistence.EntityManager;

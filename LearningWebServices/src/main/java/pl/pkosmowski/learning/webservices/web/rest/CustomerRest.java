@@ -1,11 +1,11 @@
-package pl.pkosmowski.testing.jaxrs.web.rest;
+package pl.pkosmowski.learning.webservices.web.rest;
 
 import javax.ejb.Stateless;
 import javax.inject.Inject;
 import javax.ws.rs.Path;
-import pl.pkosmowski.testing.jaxrs.dao.AbstractDao;
-import pl.pkosmowski.testing.jaxrs.dao.CustomerDao;
-import pl.pkosmowski.testing.jaxrs.model.Customer;
+import pl.pkosmowski.learning.webservices.dao.AbstractDao;
+import pl.pkosmowski.learning.webservices.dao.CustomerDao;
+import pl.pkosmowski.learning.webservices.model.Customer;
 
 /**
  *

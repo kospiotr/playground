@@ -1,9 +1,9 @@
-package pl.pkosmowski.testing.jaxrs.dao;
+package pl.pkosmowski.learning.webservices.dao;
 
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
-import pl.pkosmowski.testing.jaxrs.model.Customer;
+import pl.pkosmowski.learning.webservices.model.Customer;
 
 /**
  *

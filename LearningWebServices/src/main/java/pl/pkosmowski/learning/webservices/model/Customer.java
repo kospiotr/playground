@@ -1,4 +1,4 @@
-package pl.pkosmowski.testing.jaxrs.model;
+package pl.pkosmowski.learning.webservices.model;
 
 import java.io.Serializable;
 import javax.persistence.Entity;

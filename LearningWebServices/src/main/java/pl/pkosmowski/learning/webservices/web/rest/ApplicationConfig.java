@@ -1,4 +1,4 @@
-package pl.pkosmowski.testing.jaxrs.web.rest;
+package pl.pkosmowski.learning.webservices.web.rest;
 
 import java.util.Set;
 import javax.ws.rs.core.Application;
@@ -24,8 +24,8 @@ public class ApplicationConfig extends Application {
      * If required, comment out calling this method in getClasses().
      */
     private void addRestResourceClasses(Set<Class<?>> resources) {
-        resources.add(pl.pkosmowski.testing.jaxrs.web.rest.AbstractRestForDao.class);
-        resources.add(pl.pkosmowski.testing.jaxrs.web.rest.CustomerRest.class);
+        resources.add(pl.pkosmowski.learning.webservices.web.rest.AbstractRestForDao.class);
+        resources.add(pl.pkosmowski.learning.webservices.web.rest.CustomerRest.class);
     }
     
 }

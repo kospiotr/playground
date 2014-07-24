@@ -1,11 +1,11 @@
-package pl.pkosmowski.testing.jaxrs.bootstrap;
+package pl.pkosmowski.learning.webservices.bootstrap;
 
 import javax.inject.Inject;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 import javax.servlet.annotation.WebListener;
-import pl.pkosmowski.testing.jaxrs.dao.CustomerDao;
-import pl.pkosmowski.testing.jaxrs.model.Customer;
+import pl.pkosmowski.learning.webservices.dao.CustomerDao;
+import pl.pkosmowski.learning.webservices.model.Customer;
 
 /**
  *

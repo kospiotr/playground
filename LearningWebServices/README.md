@@ -1,3 +1,3 @@
-TestingJaxRs
+LearningWebServices
 ==========
-Simple EE application that integrates JPA and JaxRS
+Simple application that allows to learn Web Services in JEE environment.
